@@ -10,7 +10,7 @@ Passionné par l'électronique embarquée et l'informatique, je conçois des sys
 
 **Microcontrôleurs & IoT**
 * **Espressif :** ESP32-S3, ESP8266.
-* **Arduino/Atmel :** Leonardo, Mega 2560.
+* **Arduino/Atmel :** Leonardo, Mega 2560, Nano 33 BLE Sense.
 * **RP2040 :** Raspberry Pi Pico.
 
 **Développement & Logiciels**

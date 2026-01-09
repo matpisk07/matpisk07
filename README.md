@@ -27,26 +27,26 @@ Passionné par l'électronique embarquée et l'informatique, je conçois des sys
 
 ## 🚀 Projets Phares
 
-### 📸 Intervallomètre WiFi pour mon Sony RX100M2 (Reverse Engineering et lecture de documentation Sony)
-*Contrôle de caméra via WiFi en contournant l'application propriétaire.*
-* **Hardware :** Arduino Nano ESP32 (**ESP32-S3**), Écran LCD 16x2.
-* **Technique :** Création d'un **Portail Captif** pour la configuration (HTML/CSS embarqué) et envoi de commandes JSON (`setShootMode`, `actTakePicture`) à l'API Sony.
-* **Fonctionnalité :** Calcul automatique de la durée du timelapse et feedback utilisateur sur LCD.
-* [Voir le code >](#)
-
 ### 🔐 Coffre-fort RFID Autonome
 *Système de contrôle d'accès avec gestion de base de données locale.*
 * **Hardware :** Arduino Leonardo, Module RC522 (SPI), Stepper Motor, LED RGB, Haut-Parleur.
 * **Algorithme :** Architecture basée sur une **Machine à États** (Startup, Veille, Admin, Accès) pour une fiabilité totale.
 * **Fonctionnalité :** Mode "Master Card" permettant d'ajouter ou supprimer des badges utilisateurs dynamiquement sans ordinateur.
-* [Voir le code >](#)
+* [Voir le code](https://github.com/matpisk07/RFID-Autonomous-Safe)
 
 ### 📡 Radar à Ultrasons & Visualisation PC
 *Cartographie d'obstacles en temps réel.*
 * **Hardware :** Arduino Leonardo, Capteur US-100, Stepper Motor.
 * **Technique :** Utilisation du mode UART pour obtenir une mesure de distance précise (grâce à la compensation de température intégrée).
 * **Interface :** Communication Série vers un script **Processing** pour l'affichage graphique type "radar".
-* [Voir le code >](#)
+* [Voir le code](https://github.com/matpisk07/Ultrasonic-Radar-Visualization)
+
+### 📸 Intervallomètre WiFi pour mon Sony RX100M2 (Reverse Engineering et lecture de documentation Sony)
+*Contrôle de caméra via WiFi en contournant l'application propriétaire.*
+* **Hardware :** Arduino Nano ESP32 (**ESP32-S3**), Écran LCD 16x2.
+* **Technique :** Création d'un **Portail Captif** pour la configuration (HTML/CSS embarqué) et envoi de commandes JSON (`setShootMode`, `actTakePicture`) à l'API Sony.
+* **Fonctionnalité :** Calcul automatique de la durée du timelapse et feedback utilisateur sur LCD.
+* [Voir le code](https://github.com/matpisk07/Sony-WiFi-Intervalometer)
 
 ---
 
@@ -60,4 +60,4 @@ En parallèle de l'électronique, je gère ma propre infrastructure IT pour exp�
 ### 📫 Me contacter
 Je suis ouvert aux opportunités de stage et aux collaborations !
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/matpisk07/)
+[![LinkedIn](https://img.shields.io/badge/Mattia%20Pischedda-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matpisk07/)

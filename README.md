@@ -60,4 +60,4 @@ En parallèle de l'électronique, je gère ma propre infrastructure IT pour exp�
 ### 📫 Me contacter
 Je suis ouvert aux opportunités de stage et aux collaborations !
 
-[![LinkedIn](https://img.shields.io/badge/Mattia%20Pischedda-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matpisk07/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mattia%20Pischedda-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/matpisk07/)

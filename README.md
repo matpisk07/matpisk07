@@ -20,9 +20,9 @@ Passionné par l'électronique embarquée et l'informatique, je conçois des sys
 * **Web & Réseau :** API REST, Serveur Web embarqué, Protocoles UART/SPI/I2C.
 
 **Cloud, Linux & Infrastructure**
-* **Administration Serveur :** Déploiement d'applications Node.js, Gestion VPS (Oracle Cloud), Commandes Linux/Bash.
-* **Outils de Production :** PM2 (Gestionnaire de processus), Nginx (Reverse Proxy), Sécurisation SSL.
-* **Réseau Domestique :** NAS (Ubuntu Server), VPN (Tailscale/WireGuard).
+* **Administration Cloud :** Gestion VPS (Oracle Cloud), Configuration VPN (Tailscale/WireGuard), Linux/Bash.
+* **Outils de Production :** Déploiement Node.js, PM2, Nginx (Reverse Proxy), Sécurisation SSL.
+* **Home Lab (Local) :** NAS (Ubuntu Server sur vieux PC), Streaming multimédia (Jellyfin).
 
 ---
 

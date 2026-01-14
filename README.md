@@ -15,13 +15,14 @@ Passionné par l'électronique embarquée et l'informatique, je conçois des sys
 
 **Développement & Logiciels**
 * **Langages :** C++ (Arduino), Python (Algorithmique & Scripting).
-* **Concepts C++ :** Machines à états finis, Gestion non-bloquante (`millis`), Structures de données (Enums, Arrays).
-* **Web & Réseau :** Serveur Web embarqué (Captive Portal), API REST/JSON, Protocoles UART/SPI/I2C.
-* **Outils :** Arduino IDE, Linux (Commandes de base & Installation).
+* **Versioning :** Git & GitHub (Workflow en ligne de commande).
+* **Concepts C++ :** Machines à états finis, Gestion non-bloquante (`millis`), Structures de données.
+* **Web & Réseau :** API REST, Serveur Web embarqué, Protocoles UART/SPI/I2C.
 
-**IT & Maintenance Hardware**
-* **Assemblage & Réparation :** Montage de PC fixes et Serveurs, Remplacement de composants, Diagnostic de pannes matérielles.
-* **Support :** Installation d'OS (Windows/Linux), Dépannage et résolution de conflits logiciels.
+**Cloud, Linux & Infrastructure**
+* **Administration Serveur :** Déploiement d'applications Node.js, Gestion VPS (Oracle Cloud), Commandes Linux/Bash.
+* **Outils de Production :** PM2 (Gestionnaire de processus), Nginx (Reverse Proxy), Sécurisation SSL.
+* **Réseau Domestique :** NAS (Ubuntu Server), VPN (Tailscale/WireGuard).
 
 ---
 
@@ -47,6 +48,14 @@ Passionné par l'électronique embarquée et l'informatique, je conçois des sys
 * **Technique :** Création d'un **Portail Captif** pour la configuration (HTML/CSS embarqué) et envoi de commandes JSON (`setShootMode`, `actTakePicture`) à l'API Sony.
 * **Fonctionnalité :** Calcul automatique de la durée du timelapse et feedback utilisateur sur LCD.
 * [Voir le projet](https://github.com/matpisk07/Sony-WiFi-Intervalometer)
+
+### 🐀 TV Rat - Bot de Veille Intelligente
+*Robot de recherche Leboncoin avec filtrage par apprentissage automatique.*
+* **Architecture :** Node.js, Express, PM2.
+* **Fonctionnalité :** Scan 24/7, calcul de distance GPS et **IA collaborative** (Naive Bayes) qui apprend des votes utilisateurs pour trier les annonces pertinentes.
+* **Développement & Infra :** Projet codé avec l'assistance d'une IA et déployé de A à Z en seulement **6 heures**. Auto-hébergé sur mon serveur personnel sur **Oracle Cloud** avec configuration complète : domaine **DuckDNS**, Reverse Proxy **Nginx** et certification **SSL**.
+* 🌐 **Live Demo :** [tv-rat.duckdns.org](https://tv-rat.duckdns.org)
+* [Voir le code source](https://github.com/matpisk07/TV-Rat)
 
 ---
 

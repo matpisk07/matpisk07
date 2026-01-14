@@ -62,7 +62,7 @@ Passionné par l'électronique embarquée et l'informatique, je conçois des sys
 ## 🏠 Home Lab & Infrastructure
 En parallèle de l'électronique, je gère ma propre infrastructure IT pour expérimenter :
 * **Serveur NAS Personnel :** PC reconditionné sous **Ubuntu Server**, hébergeant **Jellyfin** pour le streaming de médias.
-* **Cloud & Sécurité :** Déploiement d'une instance **Oracle Cloud** configurée avec un VPN **Tailscale (WireGuard)** pour l'accès distant sécurisé et le contournement de restrictions géographiques.
+* **Cloud & Hosting :** Instance **Oracle Cloud** (VPS) gérée sous Linux, utilisée pour l'hébergement de services Web (Nginx, SSL). Elle sert également de passerelle VPN **Tailscale (WireGuard)** pour l'accès distant sécurisé et le contournement de restrictions géographiques.
 
 ---
 

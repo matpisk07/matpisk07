@@ -53,8 +53,8 @@ Passionné par l'électronique embarquée et l'informatique, je conçois des sys
 *Robot de recherche Leboncoin avec filtrage par apprentissage automatique.*
 * **Architecture :** Node.js, Express, PM2.
 * **Fonctionnalité :** Scan 24/7, calcul de distance GPS et **IA collaborative** (Naive Bayes) qui apprend des votes utilisateurs pour trier les annonces pertinentes.
-* **Développement & Infra :** Projet codé avec l'assistance d'une IA et déployé de A à Z en seulement **6 heures**. Auto-hébergé sur mon serveur personnel sur **Oracle Cloud** avec configuration complète : domaine **DuckDNS**, Reverse Proxy **Nginx** et certification **SSL**.
-* 🌐 **Live Demo :** [tv-rat.duckdns.org](https://tv-rat.duckdns.org)
+* **Développement & Infra :** Projet codé avec l'assistance d'une IA et déployé de A à Z en seulement **6 heures**. Auto-hébergé sur mon serveur personnel sur **Oracle Cloud** avec configuration complète : domaine personnel **Cloudflare**, Reverse Proxy **Nginx** et certification **SSL**.
+* 🌐 **Live Demo :** [tv-rat.matpisk.com](https://tv-rat.matpisk.com)
 * [Voir le code source](https://github.com/matpisk07/TV-Rat)
 
 ---

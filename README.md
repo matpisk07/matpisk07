@@ -2,7 +2,7 @@
 
 ### Étudiant en L1 Cursus Master Ingénierie (CMI) Électronique à Sorbonne Université 🎓
 
-Passionné par l'électronique embarquée et l'informatique, je conçois des systèmes complets, du prototypage hardware jusqu'au développement firmware. Je suis à la recherche d'un **stage dans l'ingénierie de 6 semaines (Juin-Juillet 2026)** pour valider ma première année.
+Passionné par l'électronique embarquée et l'informatique, je conçois des systèmes complets, du prototypage hardware jusqu'au développement firmware. Je suis à la recherche d'un **stage dans l'ingénierie de 2 à 3 mois (Juin-Juillet-Août 2026)** pour valider ma première année.
 
 ---
 

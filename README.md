@@ -2,7 +2,12 @@
 
 ### Étudiant en L1 Cursus Master Ingénierie (CMI) Électronique à Sorbonne Université 🎓
 
-Passionné par l'électronique embarquée et l'informatique, je conçois des systèmes complets, du prototypage hardware jusqu'au développement firmware. Je suis à la recherche d'un **stage dans l'ingénierie de 6 à 8 semaines (Juin-Juillet 2026)** pour valider ma première année.
+Passionné par l'électronique embarquée, la culture Maker et l'informatique, je conçois des systèmes complets, du prototypage hardware jusqu'au développement firmware. Je suis actuellement candidat au **poste de Médiateur Étudiant (Espace Prototypage) pour l'année 2026/2027 à Sorbonne Université**.
+
+---
+
+##💡 Ma Philosophie Maker & Open Source
+Je ne me contente pas de faire fonctionner un projet : mon but est que d'autres puissent le reproduire et l'améliorer. C'est pourquoi je m'efforce de **documenter** mes dépôts (schémas, reverse engineering, instructions de déploiement) et de publier mes travaux sous licence **GNU GPLv3**. J'aime l'idée de rendre la technique accessible au plus grand nombre.
 
 ---
 
@@ -61,7 +66,7 @@ Passionné par l'électronique embarquée et l'informatique, je conçois des sys
 
 ## 🏠 Home Lab & Infrastructure
 En parallèle de l'électronique, je gère ma propre infrastructure IT pour expérimenter :
-* **Serveur NAS Personnel :** PC reconditionné sous **Ubuntu Server**, hébergeant **Jellyfin** pour le streaming de médias.
+* **Serveur NAS Personnel :** Réemploi d'un PC reconditionné sous **Ubuntu Server**, hébergeant **Jellyfin** pour le streaming de médias.
 * **Cloud & Hosting :** Instance **Oracle Cloud** (VPS) gérée sous Linux, utilisée pour l'hébergement de services Web (Nginx, SSL). Elle sert également de passerelle VPN **Tailscale (WireGuard)** pour l'accès distant sécurisé et le contournement de restrictions géographiques.
 
 ---

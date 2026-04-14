@@ -6,7 +6,7 @@ Passionné par l'électronique embarquée, la culture Maker et l'informatique, j
 
 ---
 
-##💡 Ma Philosophie Maker & Open Source
+## 💡 Ma Philosophie Maker & Open Source
 Je ne me contente pas de faire fonctionner un projet : mon but est que d'autres puissent le reproduire et l'améliorer. C'est pourquoi je m'efforce de **documenter** mes dépôts (schémas, reverse engineering, instructions de déploiement) et de publier mes travaux sous licence **GNU GPLv3**. J'aime l'idée de rendre la technique accessible au plus grand nombre.
 
 ---
